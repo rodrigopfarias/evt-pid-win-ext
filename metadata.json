@@ -1,0 +1,11 @@
+{
+  "name": "Evertrack",
+  "description": "Use dbus to identify the PID and window in focus",
+  "shell-version": [
+    "45",
+    "46",
+    "47"
+  ],
+  "uuid": "evt-pid-win-extension@evertrack.com.br",
+  "url": "https://github.com/rodrigopfarias/evt-pid-win-ext"
+}
